@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "lumba lumba",
+      "image": "dejdneh",
+      "price": "1000",
+      "id": 8
+    },
+    {
+      "name": "bnfgngf",
+      "image": "gbfg",
+      "price": "45",
+      "id": 9
+    },
+    {
+      "name": "bnfgngf",
+      "image": "gbfg",
+      "price": "45",
+      "id": 10
+    },
+    {
+      "name": "efewf",
+      "image": "efewf",
+      "price": "12",
+      "id": 11
     }
   ]
 }
